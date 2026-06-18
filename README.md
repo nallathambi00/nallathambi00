@@ -1,2 +1,2 @@
 hi/
-<img width="498" height="330" alt="PatrickZenGIF" src="https://github.com/user-attachments/assets/16b0265a-1957-41ff-b050-15cebb666492" />
+<img width="300" height="214" alt="AwesomeYoureAwesomeGIF" src="https://github.com/user-attachments/assets/86a1704c-154c-4853-babd-c9cc2e1a18ed" />
